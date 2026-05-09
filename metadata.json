@@ -1,0 +1,6 @@
+{
+  "name": "Generative Sunset & Waves",
+  "description": "A generative artwork translated from Processing to React. Features a sunset gradient, a 3D bench, and animated text waves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
